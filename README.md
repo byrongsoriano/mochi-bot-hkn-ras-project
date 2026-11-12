@@ -22,7 +22,7 @@ An interactive desktop pet and companion powered by the **Seeed Studio XIAO ESP3
 | Component | Specification / Notes |
 | :--- | :--- |
 | **Microcontroller** | Seeed Studio XIAO ESP32-C3 |
-| **Display** | 0.96" SSD1306 128x64 I2C OLED Display |
+| **Display** | 1.3" SSD1306 128x64 I2C OLED Display |
 | **Input Sensor** | Capacitive Touch Sensor (Active HIGH, e.g., TTP223) |
 | **Audio Output** | Passive Piezo Buzzer |
 
