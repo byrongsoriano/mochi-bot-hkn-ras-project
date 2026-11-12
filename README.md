@@ -1,6 +1,7 @@
 # Interactive OLED Desk Companion (HKN x RAS)
 
 An interactive desktop pet and companion powered by the **Seeed Studio XIAO ESP32-C3**. It features animated facial expressions on a 128x64 OLED display, capacitive touch sensing, and synthesized PWM audio feedback.
+![Uploading image.png…]()
 
 ---
 
