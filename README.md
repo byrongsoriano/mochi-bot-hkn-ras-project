@@ -1,7 +1,8 @@
-# DIY Mochi Bot Interactive OLED Desk Companion workshop (HKN x IEEE RAS)
+<img width="404" height="197" alt="image" src="https://github.com/user-attachments/assets/a401e376-43a4-45b5-b5b1-e76baff24110" /># DIY Mochi Bot Interactive OLED Desk Companion workshop (HKN x IEEE RAS)
 
 An interactive desktop pet and companion powered by the **Seeed Studio XIAO ESP32-C3**. It features animated facial expressions on a 128x64 OLED display, capacitive touch sensing, and synthesized PWM audio feedback.
-![Uploading image.png…]()
+
+
 
 ---
 
