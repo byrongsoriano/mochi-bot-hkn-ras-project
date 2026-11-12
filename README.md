@@ -56,3 +56,16 @@ An interactive desktop pet and companion powered by the **Seeed Studio XIAO ESP3
 ```text
 ├── main.ino         # Core state machine, touch debouncing, audio, and display logic
 └── bitmaps.h        # XBM byte arrays, frame pointer arrays, and frame count constants
+```
+## Arduino IDE & Board Setup
+
+### 1. Install Arduino IDE
+1. Download the latest **Arduino IDE** (Windows, macOS, or Linux) from the [official Arduino Software page](https://www.arduino.cc/en/software).
+2. Run the installer and launch the Arduino IDE.
+
+### 2. Add ESP32 Board Support
+1. Open **File > Preferences** (Windows/Linux) or **Arduino IDE > Settings** (macOS).
+2. Locate the **Additional Boards Manager URLs** field and paste the official Espressif index URL:
+   ```text
+   [https://espressif.github.io/arduino-esp32/package_esp32_index.json](https://espressif.github.io/arduino-esp32/package_esp32_index.json)
+   ```
